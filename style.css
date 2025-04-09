@@ -98,3 +98,12 @@ footer {
   padding: 1rem;
   font-size: 0.9rem;
 }
+
+@media (max-width:480px){
+  header h1{
+    font-size: 1.5rem;
+  }
+  header p{
+    font-size: 0.7rem;
+  }
+}
