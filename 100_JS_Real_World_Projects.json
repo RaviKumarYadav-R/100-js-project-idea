@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Clock",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 2,
+        "title": "Calculator",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 3,
+        "title": "Tip Calculator",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 4,
+        "title": "BMI Calculator",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 5,
+        "title": "Random Quote Generator",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 6,
+        "title": "Color Flipper",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 7,
+        "title": "Light/Dark Mode Toggle",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 8,
+        "title": "Counter App",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 9,
+        "title": "To-Do List",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 10,
+        "title": "Notes App",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 11,
+        "title": "QR Code Generator",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 12,
+        "title": "Stopwatch",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 13,
+        "title": "Countdown Timer",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 14,
+        "title": "Form Validation",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 15,
+        "title": "Image Slider/Carousel",
+        "difficulty": "Beginner",
+        "category": "Basics + DOM"
+    },
+    {
+        "id": 16,
+        "title": "Weather App",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 17,
+        "title": "Recipe Search",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 18,
+        "title": "Movie App",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 19,
+        "title": "Currency Converter",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 20,
+        "title": "Expense Tracker",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 21,
+        "title": "Pomodoro Timer",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 22,
+        "title": "Password Generator",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 23,
+        "title": "Theme Customizer",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 24,
+        "title": "Local Storage CRUD App",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 25,
+        "title": "GitHub Profile Finder",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 26,
+        "title": "Random User Generator",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 27,
+        "title": "Dictionary App",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 28,
+        "title": "Joke Generator",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 29,
+        "title": "Meme Generator",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 30,
+        "title": "Stopwatch with Laps",
+        "difficulty": "Intermediate",
+        "category": "Storage + APIs + UI"
+    },
+    {
+        "id": 31,
+        "title": "Login/Register with Local Storage",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 32,
+        "title": "Chat App",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 33,
+        "title": "Infinite Scroll Gallery",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 34,
+        "title": "PDF Generator",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 35,
+        "title": "Image Editor",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 36,
+        "title": "Custom Modal / Popup System",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 37,
+        "title": "JavaScript Quiz App",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 38,
+        "title": "Drag & Drop File Uploader",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 39,
+        "title": "Drawing Canvas",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 40,
+        "title": "Speech Recognition App",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 41,
+        "title": "Text to Speech Converter",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 42,
+        "title": "Kanban Board",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 43,
+        "title": "Markdown Editor",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 44,
+        "title": "Calculator with History",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 45,
+        "title": "Clipboard Manager",
+        "difficulty": "Advanced",
+        "category": "Authentication, Async"
+    },
+    {
+        "id": 46,
+        "title": "Rock Paper Scissors",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 47,
+        "title": "Tic Tac Toe",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 48,
+        "title": "Hangman Game",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 49,
+        "title": "Memory Card Game",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 50,
+        "title": "Dice Roll Game",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 51,
+        "title": "Snake Game",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 52,
+        "title": "Pong Game",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 53,
+        "title": "Flappy Bird Clone",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 54,
+        "title": "Word Scramble",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 55,
+        "title": "Number Guessing Game",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 56,
+        "title": "Minesweeper",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 57,
+        "title": "Whack-a-Mole",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 58,
+        "title": "Sudoku Solver",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 59,
+        "title": "Chess Board (UI only)",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 60,
+        "title": "Puzzle Slider",
+        "difficulty": "Game",
+        "category": "Logic + DOM"
+    },
+    {
+        "id": 61,
+        "title": "NASA Image of the Day",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 62,
+        "title": "Crypto Tracker",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 63,
+        "title": "News Aggregator",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 64,
+        "title": "YouTube Search",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 65,
+        "title": "Book Finder",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 66,
+        "title": "IPL Scoreboard",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 67,
+        "title": "Random Advice Generator",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 68,
+        "title": "Inspirational Wallpaper Fetcher",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 69,
+        "title": "Spotify Playlist Viewer",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 70,
+        "title": "IP Address Locator",
+        "difficulty": "API",
+        "category": "Fetch + API"
+    },
+    {
+        "id": 71,
+        "title": "Daily Planner",
+        "difficulty": "Intermediate",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 72,
+        "title": "Daily Habit Tracker",
+        "difficulty": "Intermediate",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 73,
+        "title": "Motivation Quotes App",
+        "difficulty": "Intermediate",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 74,
+        "title": "Expense Splitter",
+        "difficulty": "Intermediate",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 75,
+        "title": "Grocery List App",
+        "difficulty": "Intermediate",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 76,
+        "title": "Budget Manager",
+        "difficulty": "Intermediate",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 77,
+        "title": "Custom Alarm Clock",
+        "difficulty": "Intermediate",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 78,
+        "title": "Personal Dashboard",
+        "difficulty": "Advanced",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 79,
+        "title": "Weather + Calendar Combo",
+        "difficulty": "Advanced",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 80,
+        "title": "Routine Tracker",
+        "difficulty": "Advanced",
+        "category": "Productivity Tools"
+    },
+    {
+        "id": 81,
+        "title": "Blog System",
+        "difficulty": "Advanced",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 82,
+        "title": "eBook Reader",
+        "difficulty": "Advanced",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 83,
+        "title": "Single Page Portfolio Site",
+        "difficulty": "Intermediate",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 84,
+        "title": "Markdown Blog Creator",
+        "difficulty": "Advanced",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 85,
+        "title": "Portfolio Gallery Filter",
+        "difficulty": "Intermediate",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 86,
+        "title": "YouTube Mini Player",
+        "difficulty": "Advanced",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 87,
+        "title": "Task Manager App",
+        "difficulty": "Advanced",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 88,
+        "title": "Resume Builder",
+        "difficulty": "Advanced",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 89,
+        "title": "Online Quiz Creator",
+        "difficulty": "Advanced",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 90,
+        "title": "Personal Diary (encrypted)",
+        "difficulty": "Advanced",
+        "category": "Mini Full Apps"
+    },
+    {
+        "id": 91,
+        "title": "Notification Popup System",
+        "difficulty": "Intermediate",
+        "category": "JS Mastery Extras"
+    },
+    {
+        "id": 92,
+        "title": "Form Auto Save Draft",
+        "difficulty": "Intermediate",
+        "category": "JS Mastery Extras"
+    },
+    {
+        "id": 93,
+        "title": "Smart Navbar",
+        "difficulty": "Intermediate",
+        "category": "JS Mastery Extras"
+    },
+    {
+        "id": 94,
+        "title": "Custom Scrollbar UI",
+        "difficulty": "Intermediate",
+        "category": "JS Mastery Extras"
+    },
+    {
+        "id": 95,
+        "title": "Auto Typing Text Effect",
+        "difficulty": "Intermediate",
+        "category": "JS Mastery Extras"
+    },
+    {
+        "id": 96,
+        "title": "Page Loader Animation",
+        "difficulty": "Intermediate",
+        "category": "JS Mastery Extras"
+    },
+    {
+        "id": 97,
+        "title": "Infinite Slider",
+        "difficulty": "Intermediate",
+        "category": "JS Mastery Extras"
+    },
+    {
+        "id": 98,
+        "title": "Multi-Step Form",
+        "difficulty": "Advanced",
+        "category": "JS Mastery Extras"
+    },
+    {
+        "id": 99,
+        "title": "Audio Player",
+        "difficulty": "Advanced",
+        "category": "JS Mastery Extras"
+    },
+    {
+        "id": 100,
+        "title": "Sticky Notes App",
+        "difficulty": "Advanced",
+        "category": "JS Mastery Extras"
+    }
+]
